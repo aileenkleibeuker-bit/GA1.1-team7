@@ -31,3 +31,23 @@ Calculates the distance to zero
 
 distance_to_zero(-5)
 5
+## Square
+
+Made the Square function, call it by square(x) with x a real number. The function breaks if x isn't a number. 
+## `add(a, b)`
+
+Adds `a` and `b` and returns the result.
+
+### Example
+```python
+add(2, 3)  # 5
+```
+
+## `sum_list(values)`
+
+Sums all numbers in a list and returns the total.
+
+### Example
+```python
+sum_list([add(2,3), add(4,5), add(6,1)])  # 21
+```

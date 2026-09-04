@@ -20,6 +20,13 @@ subtract(10, 4)  # 6
 subtract(5, 5)   # 0
 subtract(3, 8)   # -5
 ```
+Add(a,b) = a + b. It breaks when a and b are not real numbers. Call the function in the following manner:
+add(3, 2)
+This will give 5.
+
+## Square
+
+Made the Square function, call it by square(x) with x a real number. The function breaks if x isn't a number. 
 ## `add(a, b)`
 
 Adds `a` and `b` and returns the result.
